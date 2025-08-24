@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.env.*
+
+# ollama / langchain caches
+__cache__/
+.cache/
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+
+# Ignore all .wav audio files
+*.wav
+
+# Ignore the downloads folder and its contents
+downloads/
+
+# Node.js (Vite, React, Tailwind)
+node_modules/
+.pnp/
+.pnp.js
+.vite/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# React/Vite environment variables
+.env.development
+.env.production
+.env.local
+.env.*.local
+
+# Frontend coverage/testing
+coverage/
+
